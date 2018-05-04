@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "project_ui",
   "version": "1.0.0",
   "description": "测试项目",
   "author": "XUXINYUAN",
@@ -7,9 +7,9 @@
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
-    "unit": "jest --config test/unit/jest.conf.js --coverage",
-    "e2e": "node test/e2e/runner.js",
-    "test": "npm run unit && npm run e2e",
+    "unit": "jest --config project_ui/unit/jest.conf.js --coverage",
+    "e2e": "node project_ui/e2e/runner.js",
+    "project_ui": "npm run unit && npm run e2e",
     "build": "node build/build.js"
   },
   "dependencies": {
