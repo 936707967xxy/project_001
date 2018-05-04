@@ -1,0 +1,170 @@
+.body-title-second{
+	height: 40%;
+	background-color:rgb(241, 245, 241);
+}
+.float-left{
+	float: left;
+}
+.cell-width-30{
+	width: 30%;
+}
+.cell-width-40{
+	width: 40%;
+}
+.cell-width-50{
+	width: 50%;
+}
+.cell-width-49{
+	width: 49%;
+}
+.cell-width-60{
+	width: 60%;
+}
+.cell-width-70{
+	width: 70%;
+}
+.cell-width-100{
+	width: 100%;
+}
+
+.cell-height-100{
+	height: 100%;
+}
+.cell-height-90{
+	height: 90%;
+}
+.cell-height-70{
+	height: 70%;
+}
+.cell-height-60{
+	height: 60%;
+}
+.cell-height-55{
+	height: 55%;
+}
+.cell-height-40{
+	height: 40%;
+}
+.cell-height-30{
+	height: 30%;
+}
+
+.text-align-left{
+	text-align: left;
+}
+.text-align-right{
+	text-align: right;
+}
+.margin-text-left-2{
+	margin-left: 2%;
+}
+
+.margin-top-20{
+   margin-top: 20px;	
+}
+.font-size-12{
+	font-size: 12px;
+}
+.font-size-14{
+	font-size: 14px;
+}
+.font-size-22{
+	font-size: 22px;
+}
+.hr1{
+	height:1px;
+	border:none;
+	border-top:1px 
+	dashed #0066CC;
+}
+.hr2{
+	height:5px;
+	border-top:1px 
+	dashed rgb(241, 245, 241);
+}
+/******************************private CSS***************************************************/
+.company-title{
+	width: 100%;
+	height: 50%;
+	margin-top: 5%;
+	font-weight:lighter;
+	font-size: 14px;
+}
+.company-title-details{
+	width: 100%;
+	height: 50%;
+	background-color: #5A5A5A;
+	font-weight:lighter;
+	font-size: 12px;
+	margin-top: 13%;
+}
+.company-img{
+    border: 1px solid #ddd;
+    border-radius: 42px;
+    padding: 5px;
+    width: 49%;
+    margin-top: 2%;
+}
+.mint-button-tabbar{
+	height: 25%;
+	margin-top: 10px;
+}
+.mint-context-tabbar{
+	margin-top: 10px;
+	height: 60%;
+}
+.company-body-div{
+	margin-top: 20px;
+	text-align: left;
+	margin-left: 2%;
+	font-size: 12px;
+}
+.company-body-div-10{
+	margin-top: 10px;
+	text-align: left;
+	margin-left: 2%;
+	font-size: 12px;
+}
+.company-body-info{
+	margin-top: 20px;
+	margin-bottom:20px;
+	text-align: left;
+	margin-left: 2%;
+	font-size: 12px;
+}
+.company-body-project{
+	width: 100%;
+	text-align: left;
+	margin-left: 2%;
+}
+.company-work{
+	margin-left: 2%;
+	font-weight:lighter;
+	font-size: 12px;
+	margin-top: 5px;
+}
+.company-apply{
+	margin-left: 2%;
+	font-weight:lighter;
+	font-size: 12px;
+	margin-top: 5px;
+	text-align: right;
+	margin-right:6%;
+}
+.work-welfare{
+	background-color: #DEDEDE;
+}
+.mint-button-small {
+    display: inline-block;
+    font-size: 12px;
+    padding: 0px 5px 1px 4px;
+    height: 27px;
+    width: 72px;
+    margin-top: 10px;
+    }
+.mint-button-default {
+    color: #656b79;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 0 1px #b8bbbf;
+    box-shadow: 0 0 1px #b8bbbf;
+}

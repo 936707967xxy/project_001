@@ -1,0 +1,2 @@
+安装vue 图标插件
+npm install vue-awesome
